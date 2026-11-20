@@ -12,7 +12,7 @@ such as abstraction, aggregation, inheritance, serialization, and data structure
 ## Purpose
 The Daily Games offer users a program to come back to and stay invested in. The ultimate goal is not the game itself,
 but rather to capture the attention of the user and maintain it. 
-The goal of this project is to win an audience, and provide a uniquely fun experience without the need for complexity. 
+The goal of this project is to win an audience, and provide a uniquely fun experience with further room for complexity and expansion. 
 
 ## Overview
 The Daily Games will consist of Worldle-Lite and RNGdle.
