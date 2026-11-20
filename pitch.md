@@ -38,6 +38,8 @@ Points scale based on # of guesses it took to complete the game.
 - Abstraction: Several classes are abstract, to hide unnecessary implementation details and get player information
 - Serialization: Used for saving, editing, and maintaining user information (logins, point totals, streaks) 
 - IO: Reading and writing to an input and output stream will be used in the project
+- Aggregation: Game holds a Sser and an Admin, each are their own object loaded and saved separately.
+- Data Structures: Several ArrayLists are used in the project, such as Game.players, Admin.players, RNGdle.medals, Wordle.wordList
 
 Login Screen Interface
 ```
