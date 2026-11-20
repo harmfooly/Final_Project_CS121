@@ -27,13 +27,17 @@ each guess will have a letter highlighted if it is used within the correct word,
 Points scale based on # of guesses it took to complete the game.
 
 ## Classes
+- RNGdle: Public class implementing Menu and Serialization
+- Wordle: Clone of RNGdle with different functionality.
+- Admin: Manual editor for player information and login info
+- User: Login functionality, Accounts
+- Game: Handles users and admins on file, loading and saving, main menu
 
 ## Implementation of Programming Concepts
 - Inheritance: All classes inherit from HasMenu interface
 - Abstraction: Several classes are abstract, to hide unnecessary implementation details and get player information
 - Serialization: Used for saving, editing, and maintaining user information (logins, point totals, streaks) 
 - IO: Reading and writing to an input and output stream will be used in the project
-- Data Structures:
 
 Login Screen Interface
 ```
