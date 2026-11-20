@@ -3,6 +3,7 @@
 
 # UML
 
+```mermaid
 classDiagram
 
     class HasMenu {
